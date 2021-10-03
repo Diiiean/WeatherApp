@@ -6,4 +6,4 @@ A real-time report on weather conditions
 - check the weather for your current location
 
 
-![6 5-inch Screenshot 1](https://user-images.githubusercontent.com/86627602/126659768-70e50a2a-6d67-4348-9797-9725c3aaffd4.jpg)
+<img src="https://user-images.githubusercontent.com/86627602/126659768-70e50a2a-6d67-4348-9797-9725c3aaffd4.jpg" width=25% height=25%>
